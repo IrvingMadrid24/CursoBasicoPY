@@ -4,4 +4,4 @@
 
 #####- Para ello necesitaremos la aplicacion de [Visual Studio Code](https://code.visualstudio.com/).
 
-![](imagenes\VSC.png)
+![](https://github.com/IrvingMadrid24/CursoBasicoPY/blob/main/imagenes/VSC.png)
